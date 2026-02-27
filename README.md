@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @KyanSC, Kyan Santiago-Calling 
-- 👀 I’m looking for internships across the Comp. Sci & PM field to expand my knowledge and experience.
-- 🌱 I’m currently in my Junior Year at San Diego State University
-- 💞️ I’m looking to collaborate on anything you might need my help with! 
-- 📫 How to reach me: kyansantiagocalling@gmail.com // 617-586-6831
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I play guitar!
+I'm Kyan
 
-<!---
-KyanSC/KyanSC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+20, San Diego (originally Boston). Prev ML Intern @ Amazon, now building ToneAdapt.com.
+
+I like to work through all aspects on consumer products.
+
+Currently building:
+ToneAdapt.com, Ethos, Orbit, Quit Nicotine Pouches, FrameMog AI
+
+What I care about:
+Mobile apps & Web Apps
+Building products people actually use
+My mom
+Playing the guitar
+
+Feel free to reach out on LinkedIn: https://www.linkedin.com/in/kyansantiagocalling/
